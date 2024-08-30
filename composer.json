@@ -1,0 +1,19 @@
+{
+    "name": "berenis/temp-conv",
+    "description": "A simple temperature converter library.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Berenis\\TempConv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dzeko003",
+            "email": "berenismassamba@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
